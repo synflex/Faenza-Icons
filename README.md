@@ -1,0 +1,4 @@
+Faenza
+======
+
+Faenza Icon theme
